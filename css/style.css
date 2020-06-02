@@ -1,0 +1,40 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color:#E4A440;
+}
+.quem-somos{
+    background-color: rgb(147, 147, 221);
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.aldo{
+    padding-right: 20px;
+    font-size: 12pt;  
+}
+.aldo1{
+    padding-right: 90px;
+    padding-left: 90px;
+    font-size: 12pt; 
+     
+}
+
+.row{
+    padding-left: 70px;    
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: 50px;
+}
+.espac{
+    padding: 70Px;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
